@@ -27,8 +27,8 @@ Any feedback or suggestions at squary5928@gmail.com would be greatly appreciated
 - Kali Linux (so basically Debian)
 
 - MacOS Mojave (10.14.6, so would work on MacOSes released after)
-(Would probably work on any Linux distro)
 
+(Would probably work on any Linux distro)
 
 ### Contributions Welcome!
 
