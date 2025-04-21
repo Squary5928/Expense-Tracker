@@ -16,8 +16,6 @@ Uses csv file to store expenses, tabulate to print expenses in a tabulated form 
 
 # Additional things
 
-Any feedback or suggestions at squary5928@gmail.com would be greatly appreciated!
-
 ### Tested on:
 
 - Termux (F-Droid and Play store)
@@ -33,3 +31,7 @@ Any feedback or suggestions at squary5928@gmail.com would be greatly appreciated
 ### Contributions Welcome!
 
 Want to improve this tracker? Pull requests are welcome!
+
+### Final Notes:
+
+Any feedback and/or suggestions at squarescircles5928@gmail.com would be **greatly** appreciated! 
