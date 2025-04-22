@@ -32,6 +32,9 @@ Uses csv file to store expenses, tabulate to print expenses in a tabulated form 
 
 Want to improve this tracker? Pull requests are welcome!
 
+### Demo:
+[Click this link to watch the demo on Youtube](https://www.youtube.com/shorts/k1Qay3m_H5E)
+
 ### Final Notes:
 
 Any feedback and/or suggestions at squarescircles5928@gmail.com would be **greatly** appreciated! 
