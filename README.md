@@ -26,7 +26,7 @@ Uses csv file to store expenses, tabulate to print expenses in a tabulated form 
 
 - MacOS Mojave (10.14.6, so would work on MacOSes released after)
 
-(Would probably work on any Linux distro)
+(Would probably work on any Linux distro. To run it on Windows, install the things manually, as the install.sh is a bash script meant for UNIX systems.)
 
 ### Contributions Welcome!
 
